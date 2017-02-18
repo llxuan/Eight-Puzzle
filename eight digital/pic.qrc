@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>background3.png</file>
+        <file>background2.png</file>
+        <file>h1.jpg</file>
+        <file>yjb.jpg</file>
+        <file>h2.png</file>
+    </qresource>
+    <qresource prefix="/python">
+        <file>eightDigits.py</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>backgmusic.wav</file>
+        <file>move.wav</file>
+        <file>finish.wav</file>
+        <file>failure.wav</file>
+    </qresource>
+</RCC>
